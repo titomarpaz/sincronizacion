@@ -1,0 +1,6 @@
+﻿GPC_full.csv
+venv/
+.env
+__pycache__/
+*.csv
+*.sql
